@@ -1,0 +1,27 @@
+{
+  "name": "make-me-laugh",
+  "version": "1.0.0",
+  "description": "\"Get random jokes to laugh upon\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "funny",
+    "laugh",
+    "joke",
+    "jokes",
+    "javascript",
+    "node",
+    "rofl",
+    "lol",
+    "random",
+    "random joke",
+    "smile",
+    "heppiness",
+    "fun",
+    "lmao"
+  ],
+  "author": "Pooja Rathore",
+  "license": "ISC"
+}
