@@ -3,7 +3,7 @@
 
 ### Click [here](https://www.npmjs.com/package/make-me-laugh) to view this package on NPM registry. Check the homepage here.
 
-## Getting started
+## Getting started with Humour
 ### Installation
 This is a [Node.js](https://nodejs.org/en/) module available through the [npm](https://www.npmjs.com/package/make-me-laugh) registry.
 
