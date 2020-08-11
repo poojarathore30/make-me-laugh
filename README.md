@@ -8,6 +8,9 @@
 <a href=https://github.com/poojarathore30/make-me-laugh>
    <img src=https://img.shields.io/npm/v/make-me-laugh>
 </a>
+<a href=https://github.com/poojarathore30/make-me-laugh>
+   <img src=https://img.shields.io/github/repo-size/poojarathore30/make-me-laugh>
+</a>
 
 #### A simple [NPM](https://www.npmjs.com/package/make-me-laugh) Package which returns random **JOKES**. It provides the most funniest Jokes to display in your application. Get your daily jokes and keep the humourous spirit rolling 🤣.
 
