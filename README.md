@@ -1,4 +1,4 @@
-# Make Me Laugh
+# Make Me Laugh  <a href="https://img.shields.io/npm/dw/make-me-laugh"></a>
 #### A simple [NPM](https://www.npmjs.com/package/make-me-laugh) Package which returns random **JOKES**. It provides the most funniest Jokes to display in your application. Get your daily jokes and keep the humourous spirit rolling 🤣.
 
 ### Click [here](https://www.npmjs.com/package/make-me-laugh) to view this package on NPM registry. Check the homepage here.
