@@ -65,6 +65,6 @@ Check out my other Repositories [here](https://github.com/poojarathore30)
 ## Connect 
 > [Linkedin](https://www.linkedin.com/in/pooja-rathore-91990a16a/)
 
-> [Gmail](poojarathore.nks@gmail.com)
+> [Gmail: poojarathore.nks@gmail.com]
 
 
