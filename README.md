@@ -1,6 +1,6 @@
 # Make Me Laugh  
 <a href=https://github.com/poojarathore30/make-me-laugh>
-   <img src=https://img.shields.io/npm/dw/make-me-laugh>
+   <img src=https://img.shields.io/npm/dy/make-me-laugh>
 </a>
 <a href=https://github.com/poojarathore30/make-me-laugh>
    <img src=https://img.shields.io/npm/l/make-me-laugh>
