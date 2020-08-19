@@ -17,7 +17,7 @@
 
 #### A simple [NPM](https://www.npmjs.com/package/make-me-laugh) Package which returns random **JOKES**. It provides the most funniest Jokes to display in your application. Get your daily jokes and keep the humourous spirit rolling 🤣🤣.
 
-### Click [here](https://www.npmjs.com/package/make-me-laugh) to view this package on NPM registry. Check the homepage here.
+### Click [here](https://www.npmjs.com/package/make-me-laugh) to view this package on NPM registry. Check the homepage down here.
 
 ## Getting started with Humour
 ### Installation
