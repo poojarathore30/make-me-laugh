@@ -46,7 +46,7 @@ console.log(joke);
 
 > Please check issues [here](https://github.com/poojarathore30/make-me-laugh/issues)!
 
-## Thankyou for being here! 😊
+# Thankyou for being here! 😊
 
 Check out my other Repositories [here](https://github.com/poojarathore30)
 
