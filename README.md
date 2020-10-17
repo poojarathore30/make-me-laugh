@@ -38,6 +38,7 @@ var myjoke = require('make-me-laugh');
 * getJoke() method returns a random joke from jokes Array.
 
  ```javascript
+ 
 var joke = myjoke.getjoke();
 console.log(joke);
 ```
