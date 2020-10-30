@@ -23,7 +23,7 @@
 ### Installation
 This is a [Node.js](https://nodejs.org/en/) module available through the [npm](https://www.npmjs.com/package/make-me-laugh) registry.
 
-Before installing, download and install Node.js.
+Before installing, download and install  Node.js.
 
 Installation of package is done using the npm install command:
 ```bash
