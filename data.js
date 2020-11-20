@@ -7,7 +7,7 @@ const data = [
   "I was wondering why the ball was getting bigger. Then it hit me.",
   "Telling my daughter garlic is good for you. Good immune system and keeps pests away.Ticks, mosquitos...",
   "I've been going through a really rough period at work this week It's my own fault for swapping my ta...",
-  "If I could have dinner with anyone, dead or alive... ...I would choose alive. -B.J. Novak-",
+  "If I could have dinner with anyone, dead or alive... ...I would choose alive. ",
   "Two guys walk into a bar. The third guy ducks.",
   "Why can't Barbie get pregnant? Because Ken comes in a different box. Heyooooooo",
   "Why was the musician arrested? He got in treble.",
